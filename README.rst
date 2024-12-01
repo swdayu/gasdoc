@@ -7,5 +7,6 @@ GNU 汇编语言文档（v2.43）
 参考链接
 
 * https://sourceware.org/binutils/
-* https://sourceware.org/binutils/docs/
+* https://sourceware.org/binutils/docs/as.pdf
 * https://sourceware.org/pub/binutils/releases/
+* https://asm.sourceforge.net/resources.html
