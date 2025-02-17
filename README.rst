@@ -1,10 +1,9 @@
 GNU 汇编语言文档（v2.43）
 
-1. `通用语法 <a-syntax.rst>`_
-2. `汇编命令 <b-directives.rst>`_
-3. `X86 平台 <c-x86-feats.rst>`_
-4. `ARM 平台 <d-arm-feats.rst>`_
-5. `汇编选项 <e-as-options.rst>`_
+1. `通用语法 <a-basic-syntax.rst>`_
+2. `X86平台特性 <b-x86-features.rst>`_
+3. `ARM平台特性 <c-arm-features.rst>`_
+4. `汇编器选项 <d-as-options.rst>`_
 
 参考链接
 
